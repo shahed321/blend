@@ -1,0 +1,8 @@
+{
+    "app-node":"root",
+    "user":{
+        "singleuser" : true,
+        "multi-user": true
+    },
+    "uses":[]
+}
